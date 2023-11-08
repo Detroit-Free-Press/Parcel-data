@@ -2,7 +2,7 @@
 Parcel data for Detroit, Michigan.
 
 | Geography |Dictionary | Data| 
-|:--        |:--              |:--         |:--  |
+|:--        |:--        |:--  |
 | Detroit   |[Here](https://data.detroitmi.gov/datasets/detroitmi::parcels-2/about#Here) |[Data](https://data.detroitmi.gov/datasets/parcels-2/explore?location=42.344810%2C-83.151039%2C12.96#Data) |
 
 
