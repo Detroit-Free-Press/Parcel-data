@@ -10,3 +10,6 @@ Michigan parcel data for use in an anomaly detection project.
 | Washtenaw County|  N/A          |        |  [Data](https://ewashtenaw.sharefile.com/share/view/s5770550a0a10456a88b9d4415a01f681#Data)        |
 | Wayne County| Annually (assessment data)          |        | [Data](https://www.waynecounty.com/departments/mb/assessment-equalization.aspx#Data) |
 [^1]: Doesn't appear to be updated daily.
+
+# Contact and questions?
+E-mail Kristi Tanner at ktanner@freepress.com with questions about the data or to ask about reuse. Also, consider buying a [digital subscription](https://cm.freep.com/specialoffer?utm_medium=github&utm_campaign=impact). 
