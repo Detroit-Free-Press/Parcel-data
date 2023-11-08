@@ -9,7 +9,7 @@ Source: [City of Detroit](https://data.detroitmi.gov/datasets/detroitmi::parcels
 |zip_code	|ZIP Code	|string																																										
 |taxpayer_1	|primary taxpayer name	|string																																										
 |taxpayer_2|	second taxpayer name	|string																																										
-|taxpayer_street|	primary taxpayer street address	s|tring																																										
+|taxpayer_street|	primary taxpayer street address	|string																																										
 |taxpayer_city|	primary taxpayer city|	string																																										
 |taxpayer_state|	primary taxpayer state	|string																																										
 |taxpayer_zip|	primary taxpayer ZIP Code	|string																																										
