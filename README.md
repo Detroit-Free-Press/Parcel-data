@@ -1,5 +1,5 @@
 # Parcel data
-Parcel data for Michigan communities. 
+Parcel data for select Michigan communities. 
 
 | Geography | Updated         | Dictionary | Data| 
 |:--        |:--              |:--         |:--  |
