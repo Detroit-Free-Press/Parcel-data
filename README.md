@@ -8,4 +8,4 @@ Parcel data for Detroit, Michigan.
 
 
 # Contact and questions?
-E-mail Kristi Tanner at ktanner@freepress.com with questions about the data or to ask about reuse. Also, consider buying a [digital subscription](https://cm.freep.com/specialoffer?utm_medium=github&utm_campaign=impact). 
+E-mail Kristi Tanner at ktanner@freepress.com with questions about the data or to ask about reuse. 
