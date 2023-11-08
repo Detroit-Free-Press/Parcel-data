@@ -1,4 +1,4 @@
-# data
+# Parcel data
 Parcel data for Michigan communities. 
 
 | Geography | Updated         | Dictionary | Data| 
