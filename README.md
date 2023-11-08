@@ -1,4 +1,6 @@
 # data
+Parcel data for use in an anomaly detection project. 
+
 Parcel data for Michigan communities
 
 | Geography | Updated         | Dictionary | Data| 
